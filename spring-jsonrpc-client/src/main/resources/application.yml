@@ -1,0 +1,4 @@
+rpc:
+  client:
+    url: http://localhost:8080       #1
+    basePackage: common.service                #2
